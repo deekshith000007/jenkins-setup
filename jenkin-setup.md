@@ -2,7 +2,7 @@ Jenkins official page
 ```
 https://www.jenkins.io/download/
 ```
-Jenkins setup  
+Jenkins setup (RedHat-based Linux Distributions) 
 ```
 sudo yum update –y
 ```
